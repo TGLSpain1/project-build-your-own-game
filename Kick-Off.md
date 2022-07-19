@@ -53,7 +53,7 @@ You can find some game ideas below.
 
 ## Deliverables
 You must turn in the git repo you used while builing your project. Remember to commit often to avoid trouble in case you mess up (this means more than 1 commit!).
-
+Flowchar, pseudocódigo, código y ppt.
 <a name="schedule"></a>
 
 ## Schedule
