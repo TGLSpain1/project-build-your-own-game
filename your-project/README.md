@@ -1,7 +1,7 @@
 <img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
 
 # Title of My Project
-*Russian Roulette*
+*Russian Roulette, a game by Augusto Guitard Lejarreta*
 
 *July 2022, DAPT, México*
 
@@ -46,6 +46,6 @@ As an IDE I used Sublime Text 3
 
 ## Links
 
-[Repository](https://github.com/)  
-[Slides](https://slides.com/)  
-[Trello](https://trello.com/en)  
+[Repository](https://github.com/TGLSpain1/project-build-your-own-game)  
+[Slides](https://docs.google.com/presentation/d/1ykr0LKisDYmNb_hEjNB1RG8rWBYGOQrTOmL23SA212g/edit?usp=sharing)  
+[LucidChart](https://lucid.app/lucidchart/1bd325f4-3554-44df-9b2d-26508c9a1e6f/edit?viewport_loc=-766%2C1294%2C2885%2C1347%2C0_0&invitationId=inv_187fcc6b-44e3-4795-9759-7910e681c4f3#)  
