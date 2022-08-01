@@ -1,9 +1,9 @@
 <img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
 
 # Title of My Project
-*[Your Name]*
+*Russian Roulette*
 
-*[Your Cohort, Campus & Date]*
+*July 2022, DAPT, México*
 
 ## Content
 - [Project Description](#project-description)
